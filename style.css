@@ -1,0 +1,48 @@
+html {
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+.jsorsc {
+  margin: 40px auto;
+  width: 50%;
+}
+
+h2 {
+  font-size: 4em;
+}
+
+.result {
+  background-color: lightgrey;
+  border: 2px solid grey;
+  padding: 10px;
+}
+
+.yay {
+  background-color: lightgreen;
+  border: 2px solid green;
+}
+
+.boo {
+  background-color: red;
+  border: 2px solid darkred;
+  color: white;
+}
+
+.buttons {
+  clear: both;
+}
+
+button {
+  background-color: #f3f3f3;
+  border: 2px solid #ccc;
+  cursor: pointer;
+  font-size: 1.6em;
+  font-weight: bold;
+  outline: none;
+  padding: 20px;
+}
+
+button:hover {
+  background-color: #fff;
+}

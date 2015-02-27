@@ -1,4 +1,4 @@
-var TERMS = [
+TERMS = [
   {
    term: "Casting",
    category: "JavaScript",
@@ -95,7 +95,7 @@ var TERMS = [
    definition: ""
   },
   {
-   term: "Variable Scoping"
+   term: "Variable Scoping",
    category: "JavaScript",
    definition: ""
   },
@@ -215,7 +215,7 @@ var TERMS = [
    definition: ""
   },
   {
-   term: "Xenu"
+   term: "Xenu",
    category: "Scientology",
    definition: ""
   }
